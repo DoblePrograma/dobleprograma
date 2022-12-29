@@ -88,8 +88,8 @@ Donec nec ante in arcu euismod aliquam accumsan ut nisi. Donec a ullamcorper eni
 <!-- GETTING STARTED -->
 ## Empezando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Este es un ejemplo de cómo puedes configurar el proyecto localmente.
+Para obtener una copia local y en ejecución, sigue estos simples pasos de ejemplo.
 
 ### Prerrequisitos
 
