@@ -194,8 +194,8 @@ Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.co
 [stars-url]: https://github.com/DoblePrograma/dobleprograma/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/DoblePrograma/dobleprograma/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/DoblePrograma/dobleprograma/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/DoblePrograma/dobleprograma?style=for-the-badge
+[license-url]: https://github.com/DoblePrograma/dobleprograma/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: google.com
 [product-screenshot]: images/screenshot.png
