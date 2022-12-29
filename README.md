@@ -92,28 +92,29 @@ Para obtener una copia local y en ejecución, sigue estos simples pasos de ejemp
 
 ### Prerrequisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Estas son las cosas que debes tener en tu equipo para permitir que el proyecto funcione correctamente.
+* [Docker](https://www.docker.com)
 
 ### Instalación
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_A continuación_
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clona el repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/DoblePrograma/dobleprograma.git
    ```
-3. Install NPM packages
+3. Abre Docker Desktop
+4. Construye y corre el servicio de Web
    ```sh
-   npm install
+   make run
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+6. Aplica las migraciones para la app
+   ```sh
+   make migrate
+   ```
+5. Corre los tests con 
+   ```sh
+   make test
    ```
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
@@ -123,7 +124,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Uso
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Puedes acceder al proyecto de Django localmente a través de http://0.0.0.0:8000/ en tu navegador.
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
