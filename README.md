@@ -192,7 +192,7 @@ Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.co
 [forks-url]: https://github.com/DoblePrograma/dobleprograma/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/DoblePrograma/dobleprograma/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/DoblePrograma/dobleprograma?style=for-the-badge
 [issues-url]: https://github.com/DoblePrograma/dobleprograma/issues
 [license-shield]: https://img.shields.io/github/license/DoblePrograma/dobleprograma?style=for-the-badge
 [license-url]: https://github.com/DoblePrograma/dobleprograma/blob/master/LICENSE
