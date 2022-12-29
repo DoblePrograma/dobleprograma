@@ -174,7 +174,7 @@ Distribuido bajo la MIT License. Ver `LICENSE` para más información.
 <!-- CONTACT -->
 ## Contacto
 
-Diego Ramirez - la.rubiano@uniandes.edu.co
+Diego Ramirez - dieguito.ramirez@uniandes.edu.co
 
 Diego Ramirez - [Pagina web](luisrubiano.tech) - la.rubiano@uniandes.edu.co
 
