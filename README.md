@@ -175,9 +175,10 @@ Distribuido bajo la MIT License. Ver `LICENSE` para más información.
 ## Contacto
 
 Diego Ramirez - la.rubiano@uniandes.edu.co
+
 Diego Ramirez - [Pagina web](luisrubiano.tech) - la.rubiano@uniandes.edu.co
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.com/DoblePrograma/dobleprograma)
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
