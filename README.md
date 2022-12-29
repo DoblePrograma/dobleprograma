@@ -3,7 +3,6 @@
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -188,8 +187,6 @@ Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.co
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/DoblePrograma/dobleprograma?style=for-the-badge
 [contributors-url]: https://github.com/DoblePrograma/dobleprograma/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DoblePrograma/dobleprograma?style=for-the-badge
-[forks-url]: https://github.com/DoblePrograma/dobleprograma/network/members
 [stars-shield]: https://img.shields.io/github/stars/DoblePrograma/dobleprograma?style=for-the-badge
 [stars-url]: https://github.com/DoblePrograma/dobleprograma/stargazers
 [issues-shield]: https://img.shields.io/github/issues/DoblePrograma/dobleprograma?style=for-the-badge
