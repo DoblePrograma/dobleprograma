@@ -6,7 +6,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -194,8 +193,6 @@ Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.co
 [issues-url]: https://github.com/DoblePrograma/dobleprograma/issues
 [license-shield]: https://img.shields.io/github/license/DoblePrograma/dobleprograma?style=for-the-badge
 [license-url]: https://github.com/DoblePrograma/dobleprograma/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: google.com
 [product-screenshot]: images/screenshot.png
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 [Django-url]: https://www.djangoproject.com
