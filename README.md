@@ -181,7 +181,7 @@ Distribuido bajo la MIT License. Ver `LICENSE` para más información.
 
 Diego Ramirez - dieguito.ramirez@uniandes.edu.co
 
-Luis Rubiano - [Pagina web](luisrubiano.tech) - la.rubiano@uniandes.edu.co
+Luis Rubiano - [Pagina web](https://luisrubiano.tech) - la.rubiano@uniandes.edu.co
 
 Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.com/DoblePrograma/dobleprograma)
 
