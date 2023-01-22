@@ -78,8 +78,11 @@ WSGI_APPLICATION = 'dobleprograma.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'HOST': '104.197.7.147',
+        'USER': 'dobleprograma',
+        'PASSWORD': 'putosIngenieros',
+        'NAME': 'dobleprograma'
     }
 }
 

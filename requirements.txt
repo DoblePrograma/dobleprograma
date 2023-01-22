@@ -3,3 +3,4 @@ Django==4.1.4
 PuLP==2.7.0
 sqlparse==0.4.3
 pytz==2022.6
+psycopg2-binary==2.9.5
