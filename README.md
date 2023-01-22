@@ -79,6 +79,12 @@ Donec nec ante in arcu euismod aliquam accumsan ut nisi. Donec a ullamcorper eni
 
 * [![Docker][Docker]][Docker-url]
 
+* [![JS][JS]][JS-url]
+
+* [![React][React]][React-url]
+
+
+
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 
@@ -173,9 +179,13 @@ Distribuido bajo la MIT License. Ver `LICENSE` para más información.
 <!-- CONTACT -->
 ## Contacto
 
+Juan José Osorio - j.osorioc@uniandes.edu.co
+
 Diego Ramirez - dieguito.ramirez@uniandes.edu.co
 
-Luis Rubiano - [Pagina web](luisrubiano.tech) - la.rubiano@uniandes.edu.co
+Martín Restrepo - m.restrepom@uniandes.edu.co
+
+Luis Rubiano - [Pagina web](https://luisrubiano.tech) - la.rubiano@uniandes.edu.co
 
 Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.com/DoblePrograma/dobleprograma)
 
@@ -200,3 +210,7 @@ Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.co
 [Docker-url]: https://www.docker.com
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org
+[JS]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JS-url]: https://www.javascript.com
+[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org
