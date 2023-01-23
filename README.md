@@ -110,7 +110,7 @@ _A continuación_
    git clone https://github.com/DoblePrograma/dobleprograma.git
    ```
 2. Abre Docker Desktop
-3. En Macs con chip M1 o M2, corre el siguiente comando en terminal
+3. En Macs con chip M1 o M2, corre el siguiente comando
    ```sh
    export DOCKER_DEFAULT_PLATFORM=linux/amd64
    ```
