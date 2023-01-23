@@ -6,7 +6,7 @@ import sys
 
 def main():
     """Run administrative tasks."""
-    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dobleprograma.settings.local') # Change this line to prod
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dobleprograma.settings') # Change this line to prod
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:

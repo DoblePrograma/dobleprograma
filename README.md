@@ -148,11 +148,11 @@ Puedes acceder al proyecto de Django localmente a través de http://0.0.0.0:8000
 ## Roadmap
 
 - [x] Empezar el proyecto
-- [ ] Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- [ ] Cras hendrerit massa in mi rutrum, at bibendum risus varius.
-- [ ] Soporte en ingles.
+- [ ] Primera versión estable.
+- [ ] Soporte para guardar planes.
+- [ ] Soporte para diferentes universidades.
 
-See the [open issues](https://github.com/DoblePrograma/dobleprograma/issues) for a full list of proposed features (and known issues).
+Ve a [open issues](https://github.com/DoblePrograma/dobleprograma/issues) para una lista completa de  las ideas que se han propuesto (y errores conocidos).
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
