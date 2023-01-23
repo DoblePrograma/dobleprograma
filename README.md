@@ -99,6 +99,7 @@ Para obtener una copia local y en ejecución, sigue estos simples pasos de ejemp
 
 Estas son las cosas que debes tener en tu equipo para permitir que el proyecto funcione correctamente.
 * [Docker](https://www.docker.com)
+* [NPM](https://www.npmjs.com)
 
 ### Instalación
 
@@ -108,8 +109,16 @@ _A continuación_
    ```sh
    git clone https://github.com/DoblePrograma/dobleprograma.git
    ```
-3. Abre Docker Desktop
-4. Construye y corre el servicio de Web
+2. Abre Docker Desktop
+3. En Macs con chip M1 o M2, corre el siguiente comando en terminal
+   ```sh
+   export DOCKER_DEFAULT_PLATFORM=linux/amd64
+   ```
+4. Haz cd a la carpeta reactapp y corre el siguiente comando
+   ```sh
+   npm run build
+   ```
+5. Construye y corre el servicio de Web
    ```sh
    make run
    ```
@@ -117,7 +126,7 @@ _A continuación_
    ```sh
    make migrate
    ```
-5. Corre los tests con 
+7. Corre los tests con 
    ```sh
    make test
    ```
@@ -139,11 +148,11 @@ Puedes acceder al proyecto de Django localmente a través de http://0.0.0.0:8000
 ## Roadmap
 
 - [x] Empezar el proyecto
-- [ ] Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- [ ] Cras hendrerit massa in mi rutrum, at bibendum risus varius.
-- [ ] Soporte en ingles.
+- [ ] Primera versión estable.
+- [ ] Soporte para guardar planes.
+- [ ] Soporte para diferentes universidades.
 
-See the [open issues](https://github.com/DoblePrograma/dobleprograma/issues) for a full list of proposed features (and known issues).
+Ve a [open issues](https://github.com/DoblePrograma/dobleprograma/issues) para una lista completa de  las ideas que se han propuesto (y errores conocidos).
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
