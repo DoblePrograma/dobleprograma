@@ -179,13 +179,13 @@ Distribuido bajo la MIT License. Ver `LICENSE` para más información.
 <!-- CONTACT -->
 ## Contacto
 
+Luis Rubiano - [Pagina web](https://luisrubiano.tech) - la.rubiano@uniandes.edu.co
+
 Juan José Osorio - j.osorioc@uniandes.edu.co
 
 Diego Ramirez - dieguito.ramirez@uniandes.edu.co
 
 Martín Restrepo - m.restrepom@uniandes.edu.co
-
-Luis Rubiano - [Pagina web](https://luisrubiano.tech) - la.rubiano@uniandes.edu.co
 
 Project Link: [https://github.com/DoblePrograma/dobleprograma](https://github.com/DoblePrograma/dobleprograma)
 
