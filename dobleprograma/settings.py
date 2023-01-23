@@ -79,10 +79,11 @@ WSGI_APPLICATION = 'dobleprograma.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'postgres',
+        'USER': 'admindoble',
+        'PASSWORD': 'isismatexd',
         'HOST': '104.197.7.147',
-        'USER': 'dobleprograma',
-        'PASSWORD': 'putosIngenieros',
-        'NAME': 'dobleprograma'
+        'PORT': 5432
     }
 }
 
