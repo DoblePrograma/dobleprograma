@@ -98,7 +98,7 @@ Para obtener una copia local y en ejecución, sigue estos simples pasos de ejemp
 ### Prerrequisitos
 
 Estas son las cosas que debes tener en tu equipo para permitir que el proyecto funcione correctamente.
-* [Docker](https://www.docker.com)
+* [Docker Desktop](https://www.docker.com)
 * [NPM](https://www.npmjs.com)
 
 ### Instalación
