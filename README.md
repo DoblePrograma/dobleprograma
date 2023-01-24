@@ -138,7 +138,7 @@ _A continuación_
 <!-- USAGE EXAMPLES -->
 ## Uso
 
-Puedes acceder al proyecto de Django localmente a través de http://0.0.0.0:8000/ en tu navegador.
+Puedes acceder al proyecto localmente a través de http://0.0.0.0 en tu navegador.
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
